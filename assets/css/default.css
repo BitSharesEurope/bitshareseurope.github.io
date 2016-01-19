@@ -307,6 +307,14 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
  width: 100%;
 }
 
+#logo img
+{
+ position: relative;
+ top: -25px;
+ left: 10px;
+ float: left;
+}
+
 #logo h1
 {
  display: inline-block;
