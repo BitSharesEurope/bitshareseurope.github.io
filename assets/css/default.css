@@ -342,11 +342,13 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 
 #menu ul
 {
+ margin-top: 0px;
  display: inline-block;
 }
 
 #menu li
 {
+ margin-top: 0px;
  display: block;
  float: left;
  text-align: center;
