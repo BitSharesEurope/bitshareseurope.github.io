@@ -25,13 +25,12 @@ h1, h2, h3
 
 p, ol, ul
 {
- margin-top: 0;
+ margin-top: 10px;
 }
 
 ol, ul
 {
- padding: 0;
- list-style: none;
+ padding-left: 0px;
 }
 
 p
@@ -108,7 +107,7 @@ ul.style1
  margin: 0;
  padding: 0em 0em 0em 0em;
  overflow: hidden;
- list-style: none;
+ /*list-style: none;*/
  color: #6c6c6c
 }
 
@@ -157,7 +156,7 @@ ul.style2
 {
  margin: 0;
  padding-top: 1em;
- list-style: none;
+ /*list-style: none;*/
 }
 
 ul.style2 li
@@ -180,7 +179,7 @@ ul.contact
 {
  margin: 0;
  padding: 2em 0em 0em 0em;
- list-style: none;
+ /*list-style: none;*/
 }
 
 ul.contact li
@@ -613,4 +612,9 @@ textarea {
  */
 .legal_container {
  text-align: justify;
+}
+
+.legal_container ol {
+ margin-left: 40px;
+ line-height: 180%
 }
