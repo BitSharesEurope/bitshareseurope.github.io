@@ -30,7 +30,7 @@ p, ol, ul
 
 ol, ul
 {
- padding-left: 0px;
+/* padding-left: 0px; */
 }
 
 p
@@ -440,6 +440,36 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 {
  float: left;
  width: 700px;
+}
+
+/*********************************************************************************/
+/* Blog
+/*********************************************************************************/
+
+.blog
+{
+ width: 700px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.blog .title
+{
+ margin-bottom: 0em;
+}
+
+.blog .title .byline
+{
+ letter-spacing: 0.15em;
+ text-transform: uppercase;
+ font-weight: 400;
+ font-size: 0.8em;
+ color: #6F6F6F;
+}
+
+.blog p
+{
+ text-align: justify;
 }
 
 /*********************************************************************************/

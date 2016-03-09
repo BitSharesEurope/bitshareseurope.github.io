@@ -1,0 +1,19 @@
+title: "BitShares: Financial Freedom by Design"
+email: info@bitshares.eu
+description: > # this means to ignore newlines until "baseurl:"
+             BitShares is a decentralized network for financial smart
+             contracts and alike. BitShares.eu serves as an educational
+             platform.
+baseurl: ""
+url: "http://bitshares.eu"
+markdown: kramdown
+
+github_username : BitSharesEurope
+permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+    - scope:
+          type: posts
+      values:
+          layout: post
+          topic: Blog

@@ -1,0 +1,28 @@
+  <div id="header-wrapper">
+   <div id="header" class="container">
+    <div id="logo">
+     <img class="logo" src="{{ "/assets/images/logo.png" | prepend: site.baseurl }}" width="128px"/>
+     <h1><a href="#">BitShares</a></h1>
+     <h2>{{ page.topic }}</h2>
+    </div>
+    <div id="menu">
+     <ul>
+      <li class="current_page_item"><a href="/#" accesskey="1" title="">Home</a></li>
+      <li><a href="/#bitshares" accesskey="3" title="">BitShares</a></li>
+      <li><a href="/#apps" accesskey="3" title="">Applications</a></li>
+      <li><a href="/#contact" accesskey="5" title="">Contact</a></li>
+      <li><a href="/blog" accesskey="5" title="">Blog</a></li>
+      <li><a href="/legal" accesskey="5" title="">Legal</a></li>
+     </ul>
+<!--
+      <div class="trigger">
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+//-->
+    </div>
+   </div>
+  </div>

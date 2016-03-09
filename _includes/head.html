@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="BitShares, Finance Freedom, Decentral Exchange, Dex, Crypto Currency, Trading, Stock, Derivative, Decentralized, Blockchain, Graphene, Europe, real-time, decentralized app, dapp" />
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ "/assets/css/default.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/fonts.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}">
+  <style>
+   @import url(http://weloveiconfonts.com/api/?family=brandico|entypo);
+   [class*="brandico-"]:before { font-family: 'brandico', sans-serif; }
+   [class*="entypo-"]:before { font-family: 'entypo', sans-serif; }
+  </style>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+ </head>
