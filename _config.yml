@@ -17,3 +17,5 @@ defaults:
       values:
           layout: post
           topic: Blog
+
+excerpt_separator: <!--more-->

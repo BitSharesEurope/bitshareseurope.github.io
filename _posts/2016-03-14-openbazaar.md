@@ -5,6 +5,8 @@ Dear OpenBazaar community,
 
 I have followed the OpenBazaar development with quite some excitement and am very happy to see such a great idea evolve into a great project with an awesome community. Congratulations for the successful launch in the Bitcoin Testnet!
 
+<!--more-->
+
 Let me tell you, that when I met the OB1 team in Amsterdam I was very, very excited and couldn't wait to see their presentation at the [d10e conference](http://d10e.org). The whole demonstration, not only of the project itself but also of the community and the team made me realize that I had to join the OpenBazaar meetup that took place the day after. We received a full afternoon of demonstrations, technical discussions and talks about almost anything related to decentralized market places and how OpenBazaar can certainly replace well-known inefficient and expensive centralized competitors.
 
 In the days after the conference, I took some days off only to take a closer look into OpenBazaar, the backend, the frontend, the API, community, documentation, etc. Let me tell you this: I am deeply impressed by what you have built there and the whole OpenBazaar community can be proud to have the guys behind OB1!

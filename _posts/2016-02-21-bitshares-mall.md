@@ -4,6 +4,8 @@ title: BitShares as a Platform
 
 In this article, I'd like to discuss with you, how BitShares is a platform for businesses. For that and given that blockchain technologies are usualy considered *complicated*, I'd like reimagine everything from ground up and compare BitShares with a platform that offers a *common ground* infrastructure to its customers, participants and business partners.
 
+<!--more-->
+
 The first and maybe simplest non-technical analogy would be
 
 **BitShares as a global shopping mall**
