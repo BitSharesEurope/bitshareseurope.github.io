@@ -99,7 +99,7 @@ You certainly *want* OpenBazaar to integrate with BitShares and leverage our tec
 Contact
 -------
 
-Together wit this proposal, we are trying to become more active in the OpenBazaar slack group and many of us will probably be reachable in the *bitshares* channel in your slack group. Alternatively, you are very welcome to reach out to us on our [slack group](http://slack.bitshares.org) or the [bitsharestalk forums](bitsharestalk.org).
+Together wit this proposal, we are trying to become more active in the OpenBazaar slack group and many of us will probably be reachable in the *bitshares* channel in your slack group. Alternatively, you are very welcome to reach out to us on our [slack group](http://slack.bitshares.org) or the [bitsharestalk forums](http://bitsharestalk.org).
 
 We are looking forward to a fruitful partnership!
 
