@@ -14,6 +14,8 @@ asset and a save way to manage the asset. We distinguish two cases:
 * the crowdsale has not yet taken place
 * the crowdsale that already took place
 
+<!--more-->
+
 In the first case the organizers want to collect money for an I owe you
 (IOU). This IOU could be listed on a centralized exchange which collects
 the money in exchange for tokens of an asset. However, there are several
