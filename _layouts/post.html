@@ -9,7 +9,7 @@
        <div class="blog">
         <div class="title">
          <h1>{{page.title}}</h1>
-         <span class="byline">{{page.author}}</span>
+         <span class="byline">{{page.author}} ({{ page.date | date: '%B %d, %Y' }})</span>
         </div>
         {{ content }}
        </div>

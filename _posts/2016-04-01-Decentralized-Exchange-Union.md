@@ -1,4 +1,5 @@
 ---
+author: Fabian Schuh
 title: Decentralized Exchange Union
 ---
 

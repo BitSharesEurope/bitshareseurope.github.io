@@ -1,4 +1,5 @@
 ---
+author: Fabian Schuh
 title: How to run YOUR Crowdsale in BitShares
 ---
 

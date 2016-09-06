@@ -1,4 +1,5 @@
 ---
+author: Fabian Schuh
 title: PeerPlays Providing Code for Profit Sharing
 ---
 

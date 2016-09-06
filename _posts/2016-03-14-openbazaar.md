@@ -1,4 +1,5 @@
 ---
+author: Fabian Schuh
 title: Open Letter to OpenBazaar
 ---
 Dear OpenBazaar community,

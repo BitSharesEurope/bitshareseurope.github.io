@@ -1,4 +1,5 @@
 ---
+author: Fabian Schuh
 title: BitShares Python Coding - Youtube Lesson (II)
 ---
 

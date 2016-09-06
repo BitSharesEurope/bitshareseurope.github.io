@@ -5,12 +5,12 @@ title: BitShares
 subtitle: Blog
 ---
 
-{% assign posts = (site.posts | where: 'lang', page.lang) %}
+{% assign posts = (site.posts) %}
 <div class="blog">
 {% for post in posts %}
   <div class="title">
    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-   <span class="byline">({{ post.date | date: "%-m/%-d/%Y" }})</span>
+   <span class="byline">{{post.author}} ({{ post.date | date: '%B %d, %Y' }})</span>
   </div>
   <p>{{ post.excerpt | markdownify }}</p>
 {% endfor %}
